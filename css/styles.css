@@ -1,0 +1,9 @@
+*{
+    background-color: white;    
+    font-family: "Lucida Console", "Courier New", monospace;
+    font-weight: bold;
+}
+
+#frenchToastBullet, #groundBeefBullet, #babyBreastsBullet{
+    color: red;
+}
