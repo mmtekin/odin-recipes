@@ -6,4 +6,12 @@
 
 #frenchToastBullet, #groundBeefBullet, #babyBreastsBullet{
     color: red;
+    
+}
+
+.TestingFrench{
+    color: blue;
+    font-weight: bold;
+    text-align: center;
+    display: inline-flexbox;
 }
